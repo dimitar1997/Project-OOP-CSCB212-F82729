@@ -1,0 +1,6 @@
+selo,Skalsko,120
+selo,Bogdanovtsi,5
+selo,Zaya,42
+grad,Treklyano,522,0
+grad,Melnik,258,1
+selo,Orlova mogila,31
