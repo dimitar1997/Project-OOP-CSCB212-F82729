@@ -1,9 +1,9 @@
 #ifndef _H_CONTRIBUTION
 #define _H_CONTRIBUTION
+#include "Event.h"
 #include <string>
 using namespace std;
 
-class Event;
 
 class Contribution
 {
